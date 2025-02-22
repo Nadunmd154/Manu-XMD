@@ -19,7 +19,7 @@ jobs:
 
     steps:
 -name: Checkout repository
- uses: actions/checkout@v3
+ uses: actions/chekckout@v3
 
 -name: Set up Node.js
  uses: actions/setup-node@v3
